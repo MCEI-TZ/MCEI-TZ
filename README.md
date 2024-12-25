@@ -13,64 +13,66 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 ¡Hola! Soy MCEI-TZ  
+# 👋 **Hello! I'm MCEI-TZ**
 
-## 💻 Sobre Mí
-¡Hola! Soy un entusiasta del desarrollo de software con experiencia en diversas tecnologías y un constante deseo de aprender y crecer profesionalmente en el mundo de la programación. Me encanta enfrentar nuevos desafíos, crear aplicaciones funcionales y colaborar en proyectos innovadores.
+## 💻 **About Me**  
+Hello! I’m a software development enthusiast with experience in various technologies and a constant desire to learn and grow professionally in the programming world. I love tackling new challenges, building functional applications, and collaborating on innovative projects.
 
----
-
-## 🚀 Tecnologías y Herramientas
-### ✅ Tecnologías que domino:
-- **Java**
-- **JavaScript**
-- **TypeScript**
-- **Node.js**
-- **HTML5**
-- **CSS3** *(en proceso de aprendizaje)*
-- **Git**
-- **GitHub**
-
-### 🛠️ Tecnologías en las que estoy aprendiendo:
-- **Angular**
-- **Docker**
-- **CSS avanzado**
-
-### 📚 Tecnologías que planeo aprender:
-- **C#**
-- **Python**
+![undraw_programming_65t2](https://github.com/user-attachments/assets/aa0a09d3-9db3-4fca-b4eb-5e4d7964b89c)
 
 ---
 
-## 🌱 Actualmente estoy...
-- Aprendiendo **Angular** y **Docker** para mejorar mis habilidades en el desarrollo de aplicaciones modernas.
-- Profundizando en **CSS** para lograr diseños más avanzados y responsivos.
-- Preparándome para adentrarme en **C#** y **Python**.
+## 🚀 **Technologies and Tools**  
+### ✅ **Technologies I Master:**  
+- **Java**  
+- **JavaScript**  
+- **TypeScript**  
+- **Node.js**  
+- **HTML5**  
+- **CSS3** *(currently learning)*  
+- **Git**  
+- **GitHub**  
+
+### 🛠️ **Technologies I'm Learning:**  
+- **Angular**  
+- **Docker**  
+- **Advanced CSS**  
+
+### 📚 **Technologies I Plan to Learn:**  
+- **C#**  
+- **Python**  
 
 ---
 
-## 📈 Mis Objetivos
-- Convertirme en un desarrollador **Full Stack Developer** con conocimientos en **DevOps**.
-- Colaborar en proyectos open-source.
-- Desarrollar aplicaciones robustas y escalables.
-- Contribuir al desarrollo de soluciones tecnológicas innovadoras.
+## 🌱 **Currently, I'm...**  
+- Learning **Angular** and **Docker** to enhance my skills in modern application development.  
+- Diving deeper into **CSS** to achieve more advanced and responsive designs.  
+- Preparing to delve into **C#** and **Python**.  
 
 ---
 
-## 📫 ¡Conéctate conmigo!
-- **GitHub:** [TuPerfilGitHub](#)
-- **LinkedIn:** [TuPerfilLinkedIn](#)
-- **Correo Electrónico:** [TuCorreo](#)
+## 📈 **My Goals**  
+- Become a **Full Stack Developer** with **DevOps** knowledge.  
+- Contribute to open-source projects.  
+- Build robust and scalable applications.  
+- Drive the development of innovative technological solutions.  
 
 ---
 
-## 🎯 Un poco más sobre mí...
-- Me encanta resolver problemas y enfrentar desafíos tecnológicos.
-- Creo que la colaboración y el aprendizaje constante son clave en el mundo de la tecnología.
-- Siempre estoy abierto a nuevas oportunidades y a trabajar en proyectos emocionantes.
+## 📫 **Connect with Me!**  
+- **GitHub:** [YourGitHubProfile](#)  
+- **LinkedIn:** [YourLinkedInProfile](#)  
+- **Email:** [YourEmail](#)  
 
 ---
 
-¡Gracias por visitar mi perfil! 😊✨
+## 🎯 **A Little More About Me...**  
+- I love solving problems and tackling technological challenges.  
+- I believe collaboration and continuous learning are key in the tech world.  
+- I’m always open to new opportunities and exciting projects.  
 
-> *"El aprendizaje nunca se detiene, y cada línea de código cuenta."*
+---
+
+Thank you for visiting my profile! 😊✨  
+
+> *"Learning never stops, and every line of code matters."*
