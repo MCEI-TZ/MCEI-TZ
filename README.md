@@ -76,3 +76,12 @@ Hello! I’m a software development enthusiast with experience in various techno
 Thank you for visiting my profile! 😊✨  
 
 > *"Learning never stops, and every line of code matters."*
+
+---
+
+![MCEI-TZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCEI-TZ&show_icons=true&theme=merko)
+
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCEI-TZ)](https://github.com/anuraghazra/github-readme-stats)
