@@ -29,7 +29,7 @@ Hello! I’m a software development enthusiast with experience in various techno
 - **TypeScript**  
 - **Node.js**  
 - **HTML5**  
-- **CSS3** *(currently learning)*  
+- **CSS3** 
 - **Git**  
 - **GitHub**  
 
