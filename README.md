@@ -76,8 +76,11 @@ Thank you for visiting my profile! 😊✨
 > *"Learning never stops, and every line of code matters."*
 
 ---
-![MCEI-TZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCEI-TZ&show_icons=true&theme=merko)    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=merko)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MCEI-TZ&theme=merko&card_width=520" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MCEI-TZ&layout=compact&langs_count=8&card_width=320&theme=merko" />
+</a>
 
----
