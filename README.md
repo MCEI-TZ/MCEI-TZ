@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 # 👋 **Hello! I'm MCEI-TZ**
 
-## 💻 **About Me**  
+## 💻 **About Me** 
+
 Hello! I’m a software development enthusiast with experience in various technologies and a constant desire to learn and grow professionally in the programming world. I love tackling new challenges, building functional applications, and collaborating on innovative projects.
+
 ---
 
 ## 🚀 **Technologies and Tools**  
