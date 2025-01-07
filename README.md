@@ -19,8 +19,6 @@ Let's keep learning, building, and innovating together! 🚀✨
 
 - 💬 Ask me about **Java, JS, TS, Node.js, GIT**
 
-- 📫 How to reach me **mceiworkplace@gmail.com**
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,12 +42,6 @@ Let's keep learning, building, and innovating together! 🚀✨
 - Contribute to open-source projects.  
 - Build robust and scalable applications.  
 - Drive the development of innovative technological solutions.  
-
----
-
-## 📫 **Connect with Me!**   
-
-<a href="https://linkedin.com/in/www.linkedin.com/in/mexzjhakob-cyro-eduardo-i-toledo-zamora-83174b2b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mexzjhakob-cyro-eduardo-i-toledo-zamora-83174b2b3" height="30" width="40" /></a>
 
 ---
 
