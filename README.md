@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ## 💻 **About Me**  
 Hello! I’m a software development enthusiast with experience in various technologies and a constant desire to learn and grow professionally in the programming world. I love tackling new challenges, building functional applications, and collaborating on innovative projects.
-
-![undraw_programming_65t2](https://github.com/user-attachments/assets/aa0a09d3-9db3-4fca-b4eb-5e4d7964b89c)
-
 ---
 
 ## 🚀 **Technologies and Tools**  
