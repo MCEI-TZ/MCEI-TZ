@@ -13,7 +13,7 @@ I believe every challenge is an opportunity to learn, and I'm excited to contrib
 Let's keep learning, building, and innovating together! 🚀✨
 
 
-- 🌱 I’m currently learning **Python, Docker, Angular , Spring boot, Spring Security, Java EEE**
+- 🌱 I’m currently learning **Python, Docker, Angular , Spring boot, Spring Security**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/MCEI-TZ?tab=repositories)
 
