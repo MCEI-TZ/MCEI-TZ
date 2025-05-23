@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank">
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
     <img width="12" />
   </a>
