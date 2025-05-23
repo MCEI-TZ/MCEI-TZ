@@ -126,7 +126,7 @@
   <a href="mailto:mceiworkplace@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mcei-tz-dev/">
+  <a href="https://www.linkedin.com/in/mcei-tz-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
