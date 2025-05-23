@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://private-user-images.githubusercontent.com/144301860/446793036-b2708a51-b64a-41f8-aa07-fe714f0b5085.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5NTYxMDYsIm5iZiI6MTc0Nzk1NTgwNiwicGF0aCI6Ii8xNDQzMDE4NjAvNDQ2NzkzMDM2LWIyNzA4YTUxLWI2NGEtNDFmOC1hYTA3LWZlNzE0ZjBiNTA4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQyMzE2NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDUwODc1OTExOThlYjExMzFlOGM4YjkzYzI3MWEyZDMzNzA1ZTRmODNjNWY5ZDRmYmE2YjZjOTQ4OGQ5NTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GrruGcx5VobCp_qAFMUCh5hHJFueAnD-ZbWdRoYxKi0"  />
+  <img height="300" src="https://private-user-images.githubusercontent.com/144301860/446793036-b2708a51-b64a-41f8-aa07-fe714f0b5085.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5NTYxMDYsIm5iZiI6MTc0Nzk1NTgwNiwicGF0aCI6Ii8xNDQzMDE4NjAvNDQ2NzkzMDM2LWIyNzA4YTUxLWI2NGEtNDFmOC1hYTA3LWZlNzE0ZjBiNTA4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQyMzE2NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDUwODc1OTExOThlYjExMzFlOGM4YjkzYzI3MWEyZDMzNzA1ZTRmODNjNWY5ZDRmYmE2YjZjOTQ4OGQ5NTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GrruGcx5VobCp_qAFMUCh5hHJFueAnD-ZbWdRoYxKi0"  />
 </div>
 
 ###
@@ -25,10 +25,14 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+    <img width="12" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+    <img width="12" />
+  </a>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
