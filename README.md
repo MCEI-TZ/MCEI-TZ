@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="375" src="https://private-user-images.githubusercontent.com/144301860/446793036-b2708a51-b64a-41f8-aa07-fe714f0b5085.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5NTYxMDYsIm5iZiI6MTc0Nzk1NTgwNiwicGF0aCI6Ii8xNDQzMDE4NjAvNDQ2NzkzMDM2LWIyNzA4YTUxLWI2NGEtNDFmOC1hYTA3LWZlNzE0ZjBiNTA4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQyMzE2NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDUwODc1OTExOThlYjExMzFlOGM4YjkzYzI3MWEyZDMzNzA1ZTRmODNjNWY5ZDRmYmE2YjZjOTQ4OGQ5NTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GrruGcx5VobCp_qAFMUCh5hHJFueAnD-ZbWdRoYxKi0"  />
+  <img height="350" src="https://private-user-images.githubusercontent.com/144301860/446793036-b2708a51-b64a-41f8-aa07-fe714f0b5085.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5NTYxMDYsIm5iZiI6MTc0Nzk1NTgwNiwicGF0aCI6Ii8xNDQzMDE4NjAvNDQ2NzkzMDM2LWIyNzA4YTUxLWI2NGEtNDFmOC1hYTA3LWZlNzE0ZjBiNTA4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQyMzE2NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDUwODc1OTExOThlYjExMzFlOGM4YjkzYzI3MWEyZDMzNzA1ZTRmODNjNWY5ZDRmYmE2YjZjOTQ4OGQ5NTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GrruGcx5VobCp_qAFMUCh5hHJFueAnD-ZbWdRoYxKi0"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 I’m a driven junior software developer fueled by curiosity and a passion for lifelong learning 📚. I love diving into cutting-edge technologies, crafting personal projects, and leveling up my skills every single day 🔥. Each challenge is a chance to grow—whether I’m architecting resilient backend systems, designing sleek UIs, or deploying containerized apps in the cloud ☁️.<br><br>I’m eager to join teams where I can make a real impact and keep pushing the boundaries of what’s possible. Let’s innovate, build, and learn together! ✨</p>
+<p align="left"> 🚀 I’m a driven junior software developer fueled by curiosity and a passion for lifelong learning 📚. I love diving into cutting-edge technologies, crafting personal projects, and leveling up my skills every single day 🔥. Each challenge is a chance to grow—whether I’m architecting resilient backend systems, designing sleek UIs, or deploying containerized apps in the cloud ☁️.<br><br>I’m eager to join teams where I can make a real impact and keep pushing the boundaries of what’s possible. Let’s innovate, build, and learn together! ✨ </p>
 
 ###
 
@@ -111,9 +111,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCEI-TZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&custom_title=MCEI_TZ's%20Github%20Stats" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MCEI-TZ&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MCEI-TZ&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MCEI-TZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&custom_title=MCEI_TZ's%20Github%20Stats" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MCEI-TZ&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MCEI-TZ&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -121,20 +121,15 @@
 <h2 align="center">🔗 Connect with Me</h2>
 
 ###
-
-<br clear="both">
-
-<div align="center">
+    
+<p align="center">
   <a href="mailto:mceiworkplace@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/mexzjhakob132001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="https://www.linkedin.com/in/mcei-tz-dev/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://www.linkedin.com/in/mcei-tz-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+</p>
 
 <br/>
 <div align="center">
