@@ -1,9 +1,6 @@
 ###
-
-<img align="left" height="50" width="50" style="border-radius: 50%; object-fit: cover;" src="https://private-user-images.githubusercontent.com/144301860/447382821-8d5c0cd4-3122-412d-bc52-5842f3cb5a95.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMjI4MjQsIm5iZiI6MTc0ODIyMjUyNCwicGF0aCI6Ii8xNDQzMDE4NjAvNDQ3MzgyODIxLThkNWMwY2Q0LTMxMjItNDEyZC1iYzUyLTU4NDJmM2NiNWE5NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNlQwMTIyMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZjZlYzE0M2FlZjA4ZjhiOTNiZWQ1YzdmMjcwMzY3MzcyZDliNWRlMjI0YzkyMGNmMDVkM2RkNTViZTYyMmQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eocdRpemfofGDO9cdJiw9pl7XDI0cWhN8F_XAza2t0g" />
-
 <h2 align="left">
-  I'm Mexzjhakob Toledo Zamora
+🤖  I'm Mexzjhakob Toledo Zamora
 </h2>
 
 ###
@@ -128,6 +125,7 @@
 <h2 align="center">🚀 My Projects & Portfolio</h2>
 
 ###
+<p align="center">🔍 Explore my best work in Web Development, Java Backend, Dockerized apps, and more!</p>
 
 <p align="center">
   <a href="https://mcei-tz.github.io/" target="_blank">
@@ -135,7 +133,6 @@
   </a>
 </p>
 
-<p align="center">🔍 Explore my best work in Web Development, Java Backend, Dockerized apps, and more!</p>
 
 ###
 
