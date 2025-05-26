@@ -1,14 +1,21 @@
+<img align="right" height="70" src="https://private-user-images.githubusercontent.com/144301860/447382821-8d5c0cd4-3122-412d-bc52-5842f3cb5a95.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMjI4MjQsIm5iZiI6MTc0ODIyMjUyNCwicGF0aCI6Ii8xNDQzMDE4NjAvNDQ3MzgyODIxLThkNWMwY2Q0LTMxMjItNDEyZC1iYzUyLTU4NDJmM2NiNWE5NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyNlQwMTIyMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZjZlYzE0M2FlZjA4ZjhiOTNiZWQ1YzdmMjcwMzY3MzcyZDliNWRlMjI0YzkyMGNmMDVkM2RkNTViZTYyMmQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eocdRpemfofGDO9cdJiw9pl7XDI0cWhN8F_XAza2t0g" />
+
 <img align="right" src="https://profile-counter.glitch.me/MCEI-TZ/count.svg?"  />
 
 ###
 
-<h2 align="left">Hi 👋 I'm Mexzjhakob | Junior Software Developer</h2>
+<h2 align="left">
+  I'm Mexzjhakob | Junior Software Developer
+</h2>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://private-user-images.githubusercontent.com/144301860/446793036-b2708a51-b64a-41f8-aa07-fe714f0b5085.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5NTYxMDYsIm5iZiI6MTc0Nzk1NTgwNiwicGF0aCI6Ii8xNDQzMDE4NjAvNDQ2NzkzMDM2LWIyNzA4YTUxLWI2NGEtNDFmOC1hYTA3LWZlNzE0ZjBiNTA4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQyMzE2NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDUwODc1OTExOThlYjExMzFlOGM4YjkzYzI3MWEyZDMzNzA1ZTRmODNjNWY5ZDRmYmE2YjZjOTQ4OGQ5NTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GrruGcx5VobCp_qAFMUCh5hHJFueAnD-ZbWdRoYxKi0"  />
+  
+  <img height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/144301860/447381888-25465581-2a32-48d5-98ce-a347e65e149d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250526%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250526T011438Z&X-Amz-Expires=300&X-Amz-Signature=1593e632f19c1843485c908aacac05f21b73d93170c7310cc3f64dd7ed57c8d6&X-Amz-SignedHeaders=host"  />
 </div>
+
+
 
 ###
 
@@ -117,6 +124,27 @@
 </div>
 
 ###
+
+###
+
+<h2 align="center">🚀 My Projects & Portfolio</h2>
+
+###
+
+<p align="center">
+  <a href="https://mcei-tz.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/MCEI-TZ/MCEI-TZ/assets/144301860/4c5a2213-f7e9-44bb-a631-b9ed460f5ea3" height="300" alt="Portfolio Preview" />
+</div>
+
+<p align="center">🔍 Explore my best work in Web Development, Java Backend, Dockerized apps, and more!</p>
+
+###
+
 
 <h2 align="center">🔗 Connect with Me</h2>
 
