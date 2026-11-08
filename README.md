@@ -1,35 +1,40 @@
-# 💫 About Me:
+# 💫 About Me
 
-I'm a Software Developer focused on **Backend Development**, with a growing specialization in **Java and its ecosystem**. I've collaborated on different projects and development teams, working across multiple technologies and contributing to solutions that address real-world needs.<br><br>I enjoy building practical software, understanding how systems work behind the scenes, and continuously improving the way I develop and solve problems.
+<p align="left">
+I'm a Software Developer focused on <strong>Backend Development</strong>, specializing in <strong>Java and its ecosystem</strong>. I've collaborated with different development teams across various projects, gaining hands-on experience building software solutions and working with diverse technologies.
+<br/><br/>
+I enjoy understanding how systems work behind the scenes, solving problems through code, and building practical solutions that make a real difference. I'm always looking to improve my engineering skills and explore new areas of technology.
+</p>
 
 ## 🚀 I'm currently working on
 
-- Deepening my Java expertise and strengthening my backend development skills.
-- Building reliable applications and improving my software engineering practices.
-- Exploring ways to integrate modern development tools and AI into my workflow.
+- Strengthening my Java expertise and advancing my backend development skills.
+- Improving software quality through better architecture, testing and development practices.
+- Exploring AI-powered tools to enhance my development workflow.
 
 ## 🤝 I'm looking to collaborate on
 
-- Backend-focused projects, especially those involving Java and real-world applications.
-- Projects where I can contribute my experience while learning from other developers.
-- Collaborative environments where ideas turn into practical, useful solutions.
+- Backend development projects, particularly those involving Java and practical applications.
+- Projects where I can contribute my knowledge while learning from experienced developers.
+- Collaborative environments focused on building useful solutions and sharing knowledge.
 
 ## 📚 I'm currently learning
 
-- **Java & Backend:** Concurrency, functional programming, Spring Boot, Hibernate, JDBC and testing.
-- **Computer Science:** Data Structures, Algorithms and software engineering fundamentals.
-- **Exploring next:** DevOps, Kubernetes, Cloud Computing, Cybersecurity and AI-powered development tools.
+- **Java & Backend:** Concurrency, functional programming, Spring ecosystem, database access and testing.
+- **Computer Science:** Data Structures, Algorithms and core software engineering concepts.
+- **Exploring next:** DevOps, Kubernetes, Cloud Computing, Cybersecurity and AI-driven development.
 
 ## 💬 Ask me about
 
 - Java and Backend Development.
-- Spring Boot and building REST APIs.
-- Docker and containerized applications.
-- Fundamentals of Computer Science and problem-solving.
+- Spring Boot and REST API development.
+- Docker and containerization.
+- Computer Science fundamentals and problem-solving.
 - Linux and development environments.
 
-## 🎮 Fun fact
-> Outside of coding, I enjoy anime, video games, movies and pixel art. I'm also into sports and swimming, gym. Always happy to discover something new, whether it's a new technology or a new hobby!
+## 🎮 Beyond the Code
+
+When I'm not coding, you'll probably find me enjoying horror movies, anime, video games or pixel art. I also enjoy swimming, going to the gym and exploring new interests beyond technology.
 
 
 ## 🌐 Socials:
