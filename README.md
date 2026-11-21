@@ -24,34 +24,39 @@ I joined to write Java and gradually took on more of the picture: Spring Boot se
 ## 🛠 Tech stack
 
 **Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & APIs**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Data**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend (working knowledge)**
+
 ![Vue 3](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-1E88E5?style=for-the-badge&logo=primeng&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
 **Tooling**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚧 Currently building
 
-**[BoutBoard](https://github.com/MCEI-TZ/BoutBoard)** — open-source, real-time scoreboard for combat sports. An operator tracks points and penalties while a second screen displays the match live to spectators. WKF karate kumite scoring out of the box, plus a configurable rules engine for other point-based sports. *Early stage — currently in design.*
+> *[BoutBoard](https://github.com/MCEI-TZ/BoutBoard) is an open-source, real-time scoreboard for combat sports. An operator tracks points and penalties while a second screen displays the match live to spectators. WKF karate kumite scoring out of the box, plus a configurable rules engine for other point-based sports. Early stage — currently in design.*
 
 ## 📚 Currently learning
 
@@ -66,7 +71,10 @@ I joined to write Java and gradually took on more of the picture: Spring Boot se
 
 ## 🌐 Socials
 
-[LinkedIn](https://linkedin.com/in/mcei-tz-dev) · [GitHub](https://github.com/MCEI-TZ) · [CodeSignal](https://codesignal.com/learn/profile/cmib3kw2200azld04st8tf2dj) · [Email](mailto:mceiworkplace@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mcei-tz-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MCEI-TZ)
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-4B45B0?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/learn/profile/cmib3kw2200azld04st8tf2dj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mceiworkplace@gmail.com)
 
 <!-- Portfolio link goes here when the site is live -->
 
