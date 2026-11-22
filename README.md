@@ -2,23 +2,11 @@
 
 ## 👋 About me
 
-Hi! Thanks for taking the time to stop by. I enjoy understanding how systems work under the hood and turning a messy problem into working software.
-
-🤝 **How I work**
-
-For me, software development is about more than writing code. It's about understanding requirements, analyzing problems, and finding solutions that meet real needs. I've collaborated with different teams, communicated with clients to clarify requirements, presented demos of our work, and documented implementations so other team members can understand and maintain them. I enjoy exchanging ideas, proposing solutions, and adapting to different ways of working.
-
-🚀 **What I'm looking for**
-
-I'm looking for opportunities to contribute to meaningful software projects, collaborate with other developers, and continue growing as a software engineer. I enjoy learning new technologies, exploring unfamiliar challenges, and turning ideas into practical solutions. I'm always willing to take on new challenges and improve the way I approach problems.
-
-Thank you for visiting my profile — I appreciate it, and I hope you have a great day.
+I didn't set out to become a backend developer. I started out curious about how the pieces fit together and kept gravitating toward what happens behind the screen: services, data, and the decisions that make everything else work. That curiosity led me into backend development and into teams building real products. These days I focus on backend functionality and system integrations, while also taking care of the less visible parts of delivery — application security, deployment configuration, and the notes and decisions that keep a team aligned. I still enjoy the same thing that hooked me at the beginning: understanding how systems work under the hood, exchanging ideas, and turning a messy problem into working software.
 
 ## 💼 Experience
 
-💻 **My experience**
-
-Throughout my professional experience, I've contributed to developing software solutions, building backend functionality, integrating systems, and creating user interfaces. I've also worked on application security and deployment configurations, gaining experience in different aspects of the software development process.
+My first professional role started with a simple brief: write Java. What followed was a gradual widening of scope — building backend functionality, integrating systems, creating user interfaces, and working on application security and deployment configurations. Along the way I've collaborated with different teams and clients, clarified requirements, presented demos, and documented implementations so others can understand and maintain them. For me, development has always been about more than code: it's about analyzing problems and finding solutions that meet real needs. Each project has left me with a clearer idea of what I want to master next.
 
 ## 🛠 Tech stack
 
